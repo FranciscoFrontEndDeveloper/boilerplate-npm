@@ -1,6 +1,7 @@
 {
 	"author": "Francisco Becerra Rodriguez",
 	"name": "fcc-learn-npm-package-json",
+	"description": "learnig npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
